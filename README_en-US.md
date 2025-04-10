@@ -1,7 +1,7 @@
 # edge-tts-go
 
-* [中文](https://github.com/wujunwei928/edge-tts-go/blob/main/README.md)
-* [English](https://github.com/wujunwei928/edge-tts-go/blob/main/README_en-US.md)
+* [中文](https://github.com/ghostrune/edge-tts-go/blob/main/README.md)
+* [English](https://github.com/ghostrune/edge-tts-go/blob/main/README_en-US.md)
 
 `edge-tts-go` is a golang module that allows you to use Microsoft Edge's online text-to-speech service from within your golang code or using the provided `edge-tts-go` command.
 
@@ -10,10 +10,7 @@
 ### go install
 To install it, run the following command:
 
-    $ go install github.com/wujunwei928/edge-tts-go
-
-### download release
-    https://github.com/wujunwei928/edge-tts-go/releases
+    $ go install github.com/ghostrune/edge-tts-go
 
 ## Usage
 
@@ -62,7 +59,7 @@ It is possible to make minor changes to the generated speech.
 
 It is possible to use the `edge-tts-go` module directly from go. look the following file:
 
-* https://github.com/wujunwei928/edge-tts-go/blob/main/internal/cmd/root.go
+* https://github.com/ghostrune/edge-tts-go/blob/main/internal/cmd/root.go
 
 ## thanks
 

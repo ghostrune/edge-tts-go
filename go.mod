@@ -1,4 +1,4 @@
-module github.com/wujunwei928/edge-tts-go
+module github.com/ghostrune/edge-tts-go
 
 go 1.21.9
 

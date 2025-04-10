@@ -2,9 +2,10 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/wujunwei928/edge-tts-go/edge_tts"
 	"log"
 	"strings"
+
+	"github.com/ghostrune/edge-tts-go/edge_tts"
 )
 
 func ListVoices() {

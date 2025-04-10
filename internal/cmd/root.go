@@ -3,10 +3,11 @@ package cmd
 import (
 	"bytes"
 	"errors"
-	"github.com/spf13/cobra"
-	"github.com/wujunwei928/edge-tts-go/edge_tts"
 	"io"
 	"os"
+
+	"github.com/ghostrune/edge-tts-go/edge_tts"
+	"github.com/spf13/cobra"
 )
 
 var (
